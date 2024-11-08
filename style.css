@@ -1,0 +1,12 @@
+body{
+    background-color: #CD5D5D;
+}
+.www{
+    text-align: center;
+    color: white;
+}
+.jusify{
+    color: black;
+    justify-content:space-around;
+    text-align: center;
+}
